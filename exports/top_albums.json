@@ -1,0 +1,322 @@
+[
+    {
+        "artist": {
+            "url": "https://www.last.fm/music/JPEGMAFIA",
+            "name": "JPEGMAFIA",
+            "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/de0fbf0601a554a6e1c61226c22f7909.jpg"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/de0fbf0601a554a6e1c61226c22f7909.jpg"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/de0fbf0601a554a6e1c61226c22f7909.jpg"
+            },
+            {
+                "size": "extralarge",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/de0fbf0601a554a6e1c61226c22f7909.jpg"
+            }
+        ],
+        "mbid": "dc85794f-ff7d-4132-80d6-73343f5de108",
+        "url": "https://www.last.fm/music/JPEGMAFIA/I+LAY+DOWN+MY+LIFE+FOR+YOU",
+        "playcount": "931",
+        "@attr": {
+            "rank": "1"
+        },
+        "name": "I LAY DOWN MY LIFE FOR YOU"
+    },
+    {
+        "artist": {
+            "url": "https://www.last.fm/music/Devon+Hendryx",
+            "name": "Devon Hendryx",
+            "mbid": "680f0fa0-e465-44b0-be81-2fedb99e54a2"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6ca5e68b0232a45421802327d585b49d.jpg"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6ca5e68b0232a45421802327d585b49d.jpg"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6ca5e68b0232a45421802327d585b49d.jpg"
+            },
+            {
+                "size": "extralarge",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ca5e68b0232a45421802327d585b49d.jpg"
+            }
+        ],
+        "mbid": "2338a12f-f4b1-4b51-a238-8092dff03d7a",
+        "url": "https://www.last.fm/music/Devon+Hendryx/The+Ghost~Pop+Tape+(Remastered+%252B+Original)",
+        "playcount": "611",
+        "@attr": {
+            "rank": "2"
+        },
+        "name": "The Ghost~Pop Tape (Remastered + Original)"
+    },
+    {
+        "artist": {
+            "url": "https://www.last.fm/music/JPEGMAFIA",
+            "name": "JPEGMAFIA",
+            "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d1ad42128e367623348c96f9b0ce70e2.jpg"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d1ad42128e367623348c96f9b0ce70e2.jpg"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d1ad42128e367623348c96f9b0ce70e2.jpg"
+            },
+            {
+                "size": "extralarge",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1ad42128e367623348c96f9b0ce70e2.jpg"
+            }
+        ],
+        "mbid": "1fd3b168-2e39-4630-ad16-6329a2c2712a",
+        "url": "https://www.last.fm/music/JPEGMAFIA/OFFLINE!",
+        "playcount": "531",
+        "@attr": {
+            "rank": "3"
+        },
+        "name": "OFFLINE!"
+    },
+    {
+        "artist": {
+            "url": "https://www.last.fm/music/JPEGMAFIA",
+            "name": "JPEGMAFIA",
+            "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/109adfe3cc11201e3fb97a246afc733d.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/109adfe3cc11201e3fb97a246afc733d.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/109adfe3cc11201e3fb97a246afc733d.png"
+            },
+            {
+                "size": "extralarge",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/109adfe3cc11201e3fb97a246afc733d.png"
+            }
+        ],
+        "mbid": "476fe0aa-f4d3-487c-8ed3-c7eb3a0124f9",
+        "url": "https://www.last.fm/music/JPEGMAFIA/Veteran",
+        "playcount": "473",
+        "@attr": {
+            "rank": "4"
+        },
+        "name": "Veteran"
+    },
+    {
+        "artist": {
+            "url": "https://www.last.fm/music/JPEGMAFIA",
+            "name": "JPEGMAFIA",
+            "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ab73a2ef85ff757e616cdbd991301859.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ab73a2ef85ff757e616cdbd991301859.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ab73a2ef85ff757e616cdbd991301859.png"
+            },
+            {
+                "size": "extralarge",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ab73a2ef85ff757e616cdbd991301859.png"
+            }
+        ],
+        "mbid": "0708f595-c841-4a97-86f0-cf8b2dfa5613",
+        "url": "https://www.last.fm/music/JPEGMAFIA/All+My+Heroes+Are+Cornballs",
+        "playcount": "395",
+        "@attr": {
+            "rank": "5"
+        },
+        "name": "All My Heroes Are Cornballs"
+    },
+    {
+        "artist": {
+            "url": "https://www.last.fm/music/Tyler,+the+Creator",
+            "name": "Tyler, the Creator",
+            "mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8c0b389bb4cbf522bc5a2b58e15b6620.jpg"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8c0b389bb4cbf522bc5a2b58e15b6620.jpg"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8c0b389bb4cbf522bc5a2b58e15b6620.jpg"
+            },
+            {
+                "size": "extralarge",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8c0b389bb4cbf522bc5a2b58e15b6620.jpg"
+            }
+        ],
+        "mbid": "e41ee68e-eb4a-4ea6-9dbd-e9d0b9d72712",
+        "url": "https://www.last.fm/music/Tyler,+the+Creator/Chromakopia",
+        "playcount": "368",
+        "@attr": {
+            "rank": "6"
+        },
+        "name": "Chromakopia"
+    },
+    {
+        "artist": {
+            "url": "https://www.last.fm/music/JPEGMAFIA",
+            "name": "JPEGMAFIA",
+            "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/129abe00a88c4ad365fbd0f1f695126f.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/129abe00a88c4ad365fbd0f1f695126f.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/129abe00a88c4ad365fbd0f1f695126f.png"
+            },
+            {
+                "size": "extralarge",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/129abe00a88c4ad365fbd0f1f695126f.png"
+            }
+        ],
+        "mbid": "53e910fa-1eb9-4fff-bb32-8317ec8e81da",
+        "url": "https://www.last.fm/music/JPEGMAFIA/black+ben+carson",
+        "playcount": "316",
+        "@attr": {
+            "rank": "7"
+        },
+        "name": "black ben carson"
+    },
+    {
+        "artist": {
+            "url": "https://www.last.fm/music/JPEGMAFIA",
+            "name": "JPEGMAFIA",
+            "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bf81cd536efbe76e3b8bd540a651d5b5.jpg"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bf81cd536efbe76e3b8bd540a651d5b5.jpg"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bf81cd536efbe76e3b8bd540a651d5b5.jpg"
+            },
+            {
+                "size": "extralarge",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf81cd536efbe76e3b8bd540a651d5b5.jpg"
+            }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/JPEGMAFIA/SCARING+THE+HOES",
+        "playcount": "262",
+        "@attr": {
+            "rank": "8"
+        },
+        "name": "SCARING THE HOES"
+    },
+    {
+        "artist": {
+            "url": "https://www.last.fm/music/JPEGMAFIA",
+            "name": "JPEGMAFIA",
+            "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/690196e7c4a3ab5871faa79caee0dfc8.png"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/690196e7c4a3ab5871faa79caee0dfc8.png"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/690196e7c4a3ab5871faa79caee0dfc8.png"
+            },
+            {
+                "size": "extralarge",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/690196e7c4a3ab5871faa79caee0dfc8.png"
+            }
+        ],
+        "mbid": "9987495a-1852-48f1-b002-a652d9f6151b",
+        "url": "https://www.last.fm/music/JPEGMAFIA/EP!",
+        "playcount": "261",
+        "@attr": {
+            "rank": "9"
+        },
+        "name": "EP!"
+    },
+    {
+        "artist": {
+            "url": "https://www.last.fm/music/Magdalena+Bay",
+            "name": "Magdalena Bay",
+            "mbid": "68c261d5-48c8-4ea9-9466-9fc908dc79bb"
+        },
+        "image": [
+            {
+                "size": "small",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/40e357a8c9962876e806cc5328a383e0.jpg"
+            },
+            {
+                "size": "medium",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/40e357a8c9962876e806cc5328a383e0.jpg"
+            },
+            {
+                "size": "large",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/40e357a8c9962876e806cc5328a383e0.jpg"
+            },
+            {
+                "size": "extralarge",
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40e357a8c9962876e806cc5328a383e0.jpg"
+            }
+        ],
+        "mbid": "24e93d85-dc05-4cbd-8da4-753885218550",
+        "url": "https://www.last.fm/music/Magdalena+Bay/Imaginal+Disk",
+        "playcount": "254",
+        "@attr": {
+            "rank": "10"
+        },
+        "name": "Imaginal Disk"
+    }
+]
